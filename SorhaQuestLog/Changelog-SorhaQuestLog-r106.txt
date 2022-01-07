@@ -1,0 +1,8 @@
+------------------------------------------------------------------------
+r106 | sorha2 | 2014-08-10 06:15:11 +0000 (Sun, 10 Aug 2014) | 1 line
+Changed paths:
+   M /trunk/Locales/Locale-enUS.lua
+   M /trunk/Modules/Quests.lua
+
+Added colour option for tooltip objective text
+------------------------------------------------------------------------
